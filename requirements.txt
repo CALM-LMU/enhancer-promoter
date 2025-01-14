@@ -1,0 +1,10 @@
+git+https://github.com/CALM-LMU/CalmUtils.git
+msr-reader
+numpy
+scipy
+scikit-image
+pandas
+seaborn
+h5py
+nd2
+natsort
