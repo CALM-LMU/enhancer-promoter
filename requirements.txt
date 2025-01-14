@@ -8,3 +8,4 @@ seaborn
 h5py
 nd2
 natsort
+papermill
