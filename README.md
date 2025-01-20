@@ -2,8 +2,13 @@
 Gabriela Stumberger<sup>1</sup>, David Hörl<sup>1</sup>, Clemens Steinek<sup>1</sup>, Heinrich Leonhardt<sup>1</sup>, Hartmann Harz<sup>1</sup> 
 
 <sup>1</sup> Human Biology & BioImaging, Faculty of Biology, Ludwig-Maximilians-Universität München, Munich, Germany 
-<br>  
+
 <br> 
+
+[![DOI](https://zenodo.org/badge/913250267.svg)](https://doi.org/10.5281/zenodo.14698024)
+
+<br>  
+
 This repository contains Jupyter Notebooks used to analyse the images in the submitted manuscript.
 
 
