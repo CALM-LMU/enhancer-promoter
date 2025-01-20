@@ -1,7 +1,13 @@
-# Enhancer - promoter distances
-This repository contains Jupyter Notebooks used to analyse the images in our publication: .
+# Nanoscale Dynamics of Enhancer-Promoter Interactions during Exit from Pluripotency  
+Gabriela Stumberger<sup>1</sup>, David Hörl<sup>1</sup>, Clemens Steinek<sup>1</sup>, Heinrich Leonhardt<sup>1</sup>, Hartmann Harz<sup>1</sup> 
 
-Folder `subscripts` contains scripts used to run the workflows. 
+<sup>1</sup> Human Biology & BioImaging, Faculty of Biology, Ludwig-Maximilians-Universität München, Munich, Germany 
+<br>  
+<br> 
+This repository contains Jupyter Notebooks used to analyse the images in the submitted manuscript.
+
+
+Folder `subscripts` contains scripts used in the workflows below. 
 
 Folder `pairwise_analysis_nd2` contains the workflow used to analyse confocal images connected to figure 1.
 
