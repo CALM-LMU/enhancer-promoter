@@ -12,6 +12,7 @@ from skimage.exposure import rescale_intensity
 from glob import glob
 from natsort import natsorted
 import json
+from scipy.optimize import curve_fit
 
 # creates the output folder if it doesn't yet exist
 def create_folder(folder_path):
