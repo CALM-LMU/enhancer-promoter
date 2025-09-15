@@ -1,8 +1,9 @@
 # Nanoscale Dynamics of Enhancer-Promoter Interactions during Exit from Pluripotency  
-Gabriela Stumberger<sup>1</sup>, David Hörl<sup>1</sup>, Clemens Steinek<sup>1</sup>, Heinrich Leonhardt<sup>1</sup>, Hartmann Harz<sup>1</sup> 
+Gabriela Stumberger<sup>1</sup>, David Hörl<sup>1</sup>, Dimitra Tsouraki<sup>2</sup>, Clemens Steinek<sup>1</sup>, A. Marieke Oudelaar<sup>2</sup>, Heinrich Leonhardt<sup>1</sup>, Hartmann Harz<sup>1</sup> 
 
 <sup>1</sup> Human Biology & BioImaging, Faculty of Biology, Ludwig-Maximilians-Universität München, Munich, Germany 
 
+<sup>2</sup> Genome Organization and Regulation, Max Planck Institute for Multidisciplinary Sciences, Göttingen, Germany
 <br> 
 
 [![DOI](https://zenodo.org/badge/913250267.svg)](https://doi.org/10.5281/zenodo.14698024)
