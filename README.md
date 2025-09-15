@@ -18,4 +18,6 @@ Folder `pairwise_analysis_nd2` contains the workflow used to analyse confocal im
 
 Folder `multiway_analysis_msr` contains the workflow used to analyse the sted images connected to figure 2.
 
-Folder `RNA_DNA_FISH_analysis` contains the workflow used to analyse the images connected to figure 3. 
+Folder `RNA_DNA_FISH_analysis` contains the workflow used to analyse the images connected to figure 3.
+
+Folder `plots_analyses` contains notebooks for various analyses, mainly quality control of data, connected to supplementary figures 3 & 4. 
